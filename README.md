@@ -43,6 +43,8 @@ Before you can start using the Llama2 Chat Bot, make sure you have the following
 
 5. Set up the necessary paths and configurations in your project, including the `DB_FAISS_PATH` variable and other configurations as per your needs.
 
+6. download model
+link: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin
 ## Getting Started
 
 To get started with the Llama2 Chat Bot, you need to:
